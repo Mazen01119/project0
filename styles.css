@@ -1,0 +1,22 @@
+#searchbar{
+   
+    text-align: center;
+}
+
+#bar {
+    width: 500px;
+    border-radius: 30px;
+    margin-top: 300px;
+    padding: 10px;
+
+}
+
+#button {
+    margin-top:19px;
+    margin-right:19px;
+}
+
+#images{
+    margin-left: 1100px;
+    text-align:right;
+}
